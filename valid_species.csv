@@ -1,0 +1,312 @@
+Species Description,# of Animals
+raccoon,1306.0
+atlantic menhaden,1075.0
+canada goose,443.0
+bullhead catfish,300.0
+mallard duck,299.0
+dog,281.0
+eastern gray squirrel,280.0
+cat,279.0
+red-tailed hawk,216.0
+chicken,207.0
+honey bee,201.0
+domestic duck,199.0
+mute swan,173.0
+rock dove,153.0
+virginia opossum,134.0
+red-eared slider,128.0
+herring gull,117.0
+paper wasp,102.0
+hornet,100.0
+guinea pig,99.0
+common snapping turtle,95.0
+striped skunk,94.0
+american woodcock,86.0
+american robin,83.0
+white-tailed deer,77.0
+domestic rabbit,76.0
+double-crested cormorant,73.0
+american bullfrog,58.0
+european starling,50.0
+asian swamp eel,50.0
+house sparrow,47.0
+fish (unknown),43.0
+american bullfrog and florida softshell turtle,42.0
+koi,40.0
+eel (unknown),40.0
+domestic dove,39.0
+wild turkey,33.0
+bird (unknown),31.0
+frog (unknown),30.0
+snow goose,28.0
+groundhog,28.0
+cooper's hawk,28.0
+great blue heron,26.0
+gull (unknown),25.0
+mourning dove,25.0
+ring-billed gull,23.0
+norway rat,22.0
+peregrine falcon,18.0
+blue jay,17.0
+eastern coyote,17.0
+great horned owl,17.0
+warbler (multiple species),17.0
+painted turtle,17.0
+american kestrel,16.0
+great black-backed gull,16.0
+snake (unknown),15.0
+garter snake,15.0
+diamondback terrapin,15.0
+american crow,14.0
+eastern box turtle,14.0
+wood duck,14.0
+white-throated sparrow,14.0
+eastern red bat,13.0
+eastern cottontail,12.0
+catfish,12.0
+american oystercatcher,12.0
+loggerhead sea turtle,12.0
+muskrat,11.0
+seal (unknown),11.0
+mallard,11.0
+brant goose,11.0
+tufted titmouse,10.0
+eastern yellowjacket,10.0
+guineafowl,10.0
+warbler (unknown),10.0
+bat (unknown),10.0
+brant,9.0
+common grackle,9.0
+east asian bullfrog,9.0
+laughing gull,9.0
+chukar,9.0
+fancy rat,9.0
+red-throated loon,9.0
+black-backed gull,9.0
+gray seal,9.0
+harbor seal,8.0
+domestic waterfowl,8.0
+corn snake,8.0
+domestic goose,8.0
+chimney swift,8.0
+northern gannet,8.0
+silver-haired bat,7.0
+horseshoe crab,7.0
+black-crowned night heron,7.0
+osprey,7.0
+yellow-bellied sapsucker,6.0
+yellow-bellied slider,6.0
+muscovy duck,6.0
+barn swallow,6.0
+yellow-crowned night heron,6.0
+great egret,5.0
+gray catbird,5.0
+little brown bat,5.0
+domestic turkey,5.0
+coyote,5.0
+budgerigar,5.0
+lovebird,5.0
+loon (unknown),5.0
+ball python,5.0
+common loon,5.0
+gadwall,5.0
+sparrow,4.0
+killdeer,4.0
+southern flying squirrel,4.0
+sharp-shinned hawk,4.0
+northern saw-whet owl,4.0
+red-shouldered hawk,4.0
+khaki campbell,4.0
+squirrel,4.0
+ovenbird,4.0
+red-bellied woodpecker,4.0
+pigeon,4.0
+red fox,4.0
+harp seal,4.0
+eastern cottontail rabbit,4.0
+yellow warbler,4.0
+carolina wren,4.0
+double-crested cormorant/ toad fish /rat,4.0
+cockatiel,4.0
+bottlenose dolphin,4.0
+crow (unknown),4.0
+ruddy duck,3.0
+indian peafowl,3.0
+common yellowthroat,3.0
+baltimore oriole,3.0
+monk parakeet,3.0
+eastern phoebe,3.0
+virginia rail,3.0
+diamond dove,3.0
+american coot,3.0
+leopard gecko,3.0
+hermit thrush,3.0
+american alligator,3.0
+eastern chipmunk,3.0
+softshell turtle,3.0
+northern cardinal,3.0
+big brown bat,3.0
+red-eyed vireo,3.0
+black-capped chickadee,3.0
+budgerigar parakeet,3.0
+bearded dragon,3.0
+yellow-headed blackbird,3.0
+american bittern,3.0
+eastern screech owl,3.0
+black-and-white warbler,3.0
+northern parula,3.0
+pine siskin,3.0
+ruby-throated hummingbird,2.0
+parrot (unknown),2.0
+parakeet (unknown),2.0
+common tern,2.0
+black scoter,2.0
+common raven,2.0
+merlin,2.0
+northern mockingbird,2.0
+black-throated blue warbler,2.0
+cedar waxwing,2.0
+clapper rail,2.0
+wood thrush,2.0
+red-winged blackbird,2.0
+rose-breasted grosbeak,2.0
+redhead duck,2.0
+northern bobwhite,2.0
+barred owl,2.0
+spotted turtle,2.0
+northern flicker,2.0
+leatherback sea turtle and loggerhead sea turtle,2.0
+dark-eyed junco,2.0
+turtle (unknown),2.0
+rabbit (unknown),2.0
+green iguana,2.0
+tern (unknown),2.0
+song sparrow,2.0
+guinea fowl,2.0
+guniea pig,2.0
+soft-shelled turtle,2.0
+duck (unknown),2.0
+downy woodpecker,2.0
+eurasian eagle-owl,2.0
+great black-backed gull and ring-billed gull,2.0
+turkey,2.0
+sea turtle (unknown),2.0
+goat,2.0
+deer,2.0
+golden-crowned kinglet,2.0
+japanese quail,2.0
+green heron,2.0
+woodpecker (unknown),2.0
+fancy dove,2.0
+sun conure,1.0
+swainson's thrush,1.0
+red-breasted merganser,1.0
+winter wren,1.0
+swamp eel,1.0
+spiny dogfish shark,1.0
+spiny dogfish,1.0
+sparrow (unknown),1.0
+sperm whale,1.0
+spiny softshell turtle,1.0
+red bat,1.0
+white-winged scoter,1.0
+white-footed mouse,1.0
+songbird (unknown),1.0
+scaup,1.0
+sanderling,1.0
+russian tortoise,1.0
+sea turtle,1.0
+turkey vulture,1.0
+worm-eating warbler,1.0
+wren (unknown),1.0
+rough-legged hawk,1.0
+snapping turtle,1.0
+virignia opossum,1.0
+yellow-billed cuckoo,1.0
+snowy owl,1.0
+warbling vireo,1.0
+robin,1.0
+tortoise (unknown),1.0
+thrush (unknown),1.0
+sturgeon fish,1.0
+alligator snapping turtle,1.0
+quail (unknown),1.0
+pygmy sperm whale,1.0
+common minke whale,1.0
+cory's shearwater,1.0
+coturnix quail,1.0
+de kay's brown snake,1.0
+dolphin (unknown),1.0
+domestic ferret,1.0
+eastern grey squirrel,1.0
+eastern kingbird,1.0
+eastern pheobe,1.0
+eastern rat snake,1.0
+eastern small-footed bat,1.0
+eastern towhee,1.0
+egret (unknown),1.0
+fancy mouse,1.0
+flycatcher (unknown),1.0
+gerbil,1.0
+giant african land snail,1.0
+chukar partridge,1.0
+chinese softshell turtle,1.0
+chinchilla,1.0
+bald eagle,1.0
+american black duck,1.0
+american black duck/mallard (hybrid),1.0
+american goldfinch,1.0
+animal (unknown),1.0
+argentine black and white tegu,1.0
+atlantic canary,1.0
+atlantic sturgeon,1.0
+bald-faced hornet,1.0
+cattle,1.0
+bat,1.0
+black racer snake,1.0
+black skimmer,1.0
+black-billed cuckoo,1.0
+blue-grey gnatcatcher,1.0
+boa constrictor,1.0
+bufflehead,1.0
+gray tree frog,1.0
+greater black-backed gull,1.0
+greater scaup,1.0
+northern spiny softshell turtle,1.0
+minke whale,1.0
+mocking bird,1.0
+nashville warbler,1.0
+nighthawk,1.0
+northern brownsnake,1.0
+northern gannett,1.0
+northern shoveler,1.0
+nothern mockingbird,1.0
+lesser yellowlegs,1.0
+nothern parula,1.0
+opossum,1.0
+ornate box turtle,1.0
+peafowl,1.0
+peking duck,1.0
+pied-billed grebe,1.0
+pitt bull mix,1.0
+long-tailed duck,1.0
+lesser scaup,1.0
+greater shearwater,1.0
+hawk (unknown),1.0
+greater yellowlegs,1.0
+green warbler,1.0
+green-winged teal,1.0
+grey seal,1.0
+greylag goose,1.0
+hamster,1.0
+harbor porpoise,1.0
+hooded merganser,1.0
+kingsnake,1.0
+house finch,1.0
+house wren,1.0
+hummingbird,1.0
+hummingbird (unknown),1.0
+humpback whale,1.0
+iguana (unknown),1.0
+kemp's ridley sea turtle,1.0
+yellow-rumped warbler,1.0
